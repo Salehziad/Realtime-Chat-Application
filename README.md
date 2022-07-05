@@ -17,5 +17,6 @@ There are an events connection between server(index.js) and main.js
 
 ![](./Screenshot_21.png)
 
-Link for th Heroku
-[Heroku](https://realtime-chat-applicatio-saleh.herokuapp.com/)
+Links for app: 
+# [Heroku](https://realtime-chat-applicatio-saleh.herokuapp.com/)
+# [Aws eb deploy](http://nerds-chat.eba-be3k4gv8.us-east-1.elasticbeanstalk.com/)
